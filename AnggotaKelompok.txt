@@ -3,5 +3,9 @@ Anindya Zafirah Pratista Ryananta Kurniawan
 Salsabila - 102022400342
 Andika Gilang Ramadan
 Ahmad Zidan Arifin
+<<<<<<< Updated upstream
 Ishfan Attaqiya Mujayyan
+=======
+Ishfan Attaqiya Mujayyan - 102022400086___--
+>>>>>>> Stashed changes
 Muhammad Rafi Fazlullah Pasya
