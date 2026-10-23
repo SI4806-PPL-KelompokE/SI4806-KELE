@@ -1,12 +1,7 @@
 Muhammad Nabil Hendrayitno
 Anindya Zafirah Pratista Ryananta Kurniawan - 102022400099
 Salsabila - 102022400342
-<<<<<<< HEAD
-Andika Gilang Ramadan - 102022400195
-Ahmad Zidan Arifin
-=======
 Andika Gilang Ramadan
 Ahmad Zidan Arifin -102022400188 Cihuy .
->>>>>>> a3ca888a96bc3f134ac6938d96c57be8feb088cf
 Ishfan Attaqiya Mujayyan
 Muhammad Rafi Fazlullah Pasya
